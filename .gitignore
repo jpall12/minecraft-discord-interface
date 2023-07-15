@@ -4,4 +4,4 @@ package-lock.json
 .git
 config.json
 .prettierrc
-
+.settings.json
